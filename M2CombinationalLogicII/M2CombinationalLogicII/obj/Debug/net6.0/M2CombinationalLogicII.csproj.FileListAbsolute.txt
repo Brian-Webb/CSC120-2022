@@ -1,0 +1,15 @@
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/bin/Debug/net6.0/M2CombinationalLogicII
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/bin/Debug/net6.0/M2CombinationalLogicII.deps.json
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/bin/Debug/net6.0/M2CombinationalLogicII.runtimeconfig.json
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/bin/Debug/net6.0/M2CombinationalLogicII.dll
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/bin/Debug/net6.0/M2CombinationalLogicII.pdb
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.csproj.AssemblyReference.cache
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.AssemblyInfoInputs.cache
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.AssemblyInfo.cs
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.csproj.CoreCompileInputs.cache
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.dll
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/refint/M2CombinationalLogicII.dll
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.pdb
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/M2CombinationalLogicII.genruntimeconfig.cache
+/Users/brian.webb/Development/personal/CSC120-2022/M2CombinationalLogicII/M2CombinationalLogicII/obj/Debug/net6.0/ref/M2CombinationalLogicII.dll
