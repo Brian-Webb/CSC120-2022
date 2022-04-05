@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0": []
+  },
+  "packageFolders": {
+    "/Users/brian.webb/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/brian.webb/Development/personal/CSC120-2022/M1CombinationalLogic/M1CombinationalLogic/M1CombinationalLogic.csproj",
+      "projectName": "M1CombinationalLogic",
+      "projectPath": "/Users/brian.webb/Development/personal/CSC120-2022/M1CombinationalLogic/M1CombinationalLogic/M1CombinationalLogic.csproj",
+      "packagesPath": "/Users/brian.webb/.nuget/packages/",
+      "outputPath": "/Users/brian.webb/Development/personal/CSC120-2022/M1CombinationalLogic/M1CombinationalLogic/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/brian.webb/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/Users/brian.webb/.dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
