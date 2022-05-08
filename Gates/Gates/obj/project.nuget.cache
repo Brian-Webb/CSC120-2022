@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "pHVLuU2L6bU1dEq0nBGmqenhog7Vq0mATnCCFiNl7pOqY8EkL4+s17FTTCq133gZpU1JmP4Qh6VhtJK71aDhZg==",
+  "success": true,
+  "projectFilePath": "/Users/brian.webb/Development/personal/CSC120-2022/Gates/Gates/Gates.csproj",
+  "expectedPackageFiles": [
+    "/Users/brian.webb/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/system.collections/4.3.0/system.collections.4.3.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/system.runtime/4.3.0/system.runtime.4.3.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "/Users/brian.webb/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.15/microsoft.netcore.app.host.osx-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

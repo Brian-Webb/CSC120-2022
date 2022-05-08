@@ -1,0 +1,16 @@
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.exe
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.deps.json
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.runtimeconfig.json
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.runtimeconfig.dev.json
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.dll
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\ref\Gates.dll
+C:\Users\todxs\source\repos\Gates\Gates\bin\Debug\net5.0\Gates.pdb
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.AssemblyInfoInputs.cache
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.AssemblyInfo.cs
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.csproj.CoreCompileInputs.cache
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.dll
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\ref\Gates.dll
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.pdb
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.genruntimeconfig.cache
+C:\Users\todxs\source\repos\Gates\Gates\obj\Debug\net5.0\Gates.csprojAssemblyReference.cache
